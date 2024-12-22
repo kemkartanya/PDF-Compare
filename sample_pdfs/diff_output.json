@@ -1,0 +1,538 @@
+[
+    {
+        "type": "added",
+        "content": "This label may not be the latest approved by FDA."
+    },
+    {
+        "type": "added",
+        "content": ""
+    },
+    {
+        "type": "added",
+        "content": "For current labeling information, please visit https://www.fda.gov/drugsatfda"
+    },
+    {
+        "type": "added",
+        "content": ""
+    },
+    {
+        "type": "unchanged",
+        "content": "# HIGHLIGHTS OF PRESCRIBING INFORMATION"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "This label may not be the latest approved by FDA. For current labeling information, please visit https://www.fda.gov/drugsatfda"
+    },
+    {
+        "type": "added",
+        "content": "These highlights do not include all the information needed to use ACETADOTE safely and effectively. See full prescribing information for ACETADOTE."
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "These highlights do not include all the information needed to use ACETADOTE safely and effectively. See full prescribing information for examples of osmolarity depending on the type of solution and ACETADOTE concentration."
+    },
+    {
+        "type": "added",
+        "content": "# ACETADOTE (acetylcysteine) injection, for intravenous use"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "added",
+        "content": "Initial U.S. Approval: 2004"
+    },
+    {
+        "type": "removed",
+        "content": "# Recommended Adult and Pediatric Dosage (2.4):"
+    },
+    {
+        "type": "removed",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "ACETADOTE (acetylcysteine) injection, for intravenous use"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "unchanged",
+        "content": "- ACETADOTE is for intravenous administration only"
+    },
+    {
+        "type": "unchanged",
+        "content": "- Total dosage of ACETADOTE is 300 mg/kg given intravenously as 3 separate doses and total recommended infusion time for 3 doses is 21 hours"
+    },
+    {
+        "type": "removed",
+        "content": "- See Full Prescribing Information for weight-based dosage and weight-based dilution (2.4)"
+    },
+    {
+        "type": "unchanged",
+        "content": "------"
+    },
+    {
+        "type": "added",
+        "content": "- See Full Prescribing Information for weight-based dosage and weight-based dilution"
+    },
+    {
+        "type": "removed",
+        "content": "- See Full Prescribing Information for recommendations for continuing ACETADOTE treatment after 21 hours (2.2)"
+    },
+    {
+        "type": "unchanged",
+        "content": "------"
+    },
+    {
+        "type": "added",
+        "content": "- See Full Prescribing Information for recommendations for continuing ACETADOTE treatment after 21 hours"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "unchanged",
+        "content": "# INDICATIONS AND USAGE"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "ACETADOTE is an antidote for acetaminophen overdose indicated to prevent or lessen hepatic injury after ingestion of a potentially hepatotoxic quantity of acetaminophen in patients with an acute ingestion or from repeated supratherapeutic ingestion (RSI) (1)."
+    },
+    {
+        "type": "unchanged",
+        "content": "----------"
+    },
+    {
+        "type": "added",
+        "content": "ACETADOTE is an antidote for acetaminophen overdose indicated to prevent or lessen hepatic injury after ingestion of a potentially hepatotoxic quantity of acetaminophen in patients with an acute ingestion or from repeated supratherapeutic ingestion."
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "unchanged",
+        "content": "# DOSAGE AND ADMINISTRATION"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "# Pre-Treatment Assessment Following Acute Ingestion (2.1):"
+    },
+    {
+        "type": "unchanged",
+        "content": "-------"
+    },
+    {
+        "type": "added",
+        "content": "# Pre-Treatment Assessment Following Acute Ingestion"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "unchanged",
+        "content": "Obtain a plasma or serum sample to assay for acetaminophen concentration at least 4 hours after ingestion."
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "unchanged",
+        "content": "- If the time of acetaminophen ingestion is unknown:"
+    },
+    {
+        "type": "added",
+        "content": "- Administer a loading dose of ACETADOTE immediately."
+    },
+    {
+        "type": "added",
+        "content": "- Obtain an acetaminophen concentration to determine need for continued treatment."
+    },
+    {
+        "type": "removed",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "# DOSAGE FORMS AND STRENGTHS"
+    },
+    {
+        "type": "removed",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "Injection: 6 grams/30 mL (200 mg/mL) in a single-dose vial (3)"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "unchanged",
+        "content": "# CONTRAINDICATIONS"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "Patients with a previous hypersensitivity reaction to acetylcysteine (4)"
+    },
+    {
+        "type": "unchanged",
+        "content": "^^^^"
+    },
+    {
+        "type": "added",
+        "content": "Patients with a previous hypersensitivity reaction to acetylcysteine."
+    },
+    {
+        "type": "unchanged",
+        "content": "^"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "unchanged",
+        "content": "# WARNINGS AND PRECAUTIONS"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "- Hypersensitivity Reactions, Including Hypotension, Wheezing, Shortness of Breath and Bronchospasm: Observe patients during and after the infusion; immediately discontinue infusion if a serious reaction occurs and initiate appropriate treatment. ACETADOTE infusion may be carefully restarted after treatment of hypersensitivity has been initiated (5.1)."
+    },
+    {
+        "type": "unchanged",
+        "content": "------------------------------------------------------------------------------------------------------------"
+    },
+    {
+        "type": "added",
+        "content": "- Hypersensitivity Reactions, Including Hypotension, Wheezing, Shortness of Breath and Bronchospasm: Observe patients during and after the infusion; immediately discontinue infusion if a serious reaction occurs and initiate appropriate treatment."
+    },
+    {
+        "type": "removed",
+        "content": "- Fluid Overload: Total volume administered should be reduced for patients weighing less than 40 kg and for those requiring fluid restriction (5.2)."
+    },
+    {
+        "type": "unchanged",
+        "content": "------"
+    },
+    {
+        "type": "added",
+        "content": "- Fluid Overload: Total volume administered should be reduced for patients weighing less than 40 kg and for those requiring fluid restriction."
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "unchanged",
+        "content": "# ADVERSE REACTIONS"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "Most common adverse reactions (> 2%) are rash, urticaria/facial flushing and pruritus (6.1)."
+    },
+    {
+        "type": "unchanged",
+        "content": "-                                                    ------"
+    },
+    {
+        "type": "added",
+        "content": "Most common adverse reactions (>2%) are rash, urticaria/facial flushing and pruritus."
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "added",
+        "content": "# NOMOGRAM FOR ESTIMATING POTENTIAL FOR HEPATOTOXICITY FROM ACUTE ACETAMINOPHEN INGESTION"
+    },
+    {
+        "type": "removed",
+        "content": "To report SUSPECTED ADVERSE REACTIONS, contact Cumberland Pharmaceuticals Inc. at 1-877-484-2700 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+    },
+    {
+        "type": "removed",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "# NOMOGRAM for Estimating Potential for Hepatotoxicity from Acute Acetaminophen Ingestion (2.2):"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "unchanged",
+        "content": "See Full Prescribing Information for instructions on how to use the nomogram to determine the need for dosing."
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "# Preparation and Storage of Diluted Solution Prior to Administration (2.3):"
+    },
+    {
+        "type": "unchanged",
+        "content": "-------"
+    },
+    {
+        "type": "added",
+        "content": "# Preparation and Storage of Diluted Solution Prior to Administration"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "ACETADOTE is hyperosmolar (2600 mOsmol/L), therefore ACETADOTE must be diluted in sterile water for injection, 0.45% sodium chloride injection, or..."
+    },
+    {
+        "type": "unchanged",
+        "content": "^^"
+    },
+    {
+        "type": "added",
+        "content": "ACETADOTE is hyperosmolar (2600 mOsmol/L), therefore ACETADOTE must be diluted in sterile water for injection, 0.45% sodium chloride injection, or 5% dextrose in water injection prior to intravenous administration."
+    },
+    {
+        "type": "unchanged",
+        "content": "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "# FULL PRESCRIBING INFORMATION: CONTENTS*"
+    },
+    {
+        "type": "unchanged",
+        "content": "-"
+    },
+    {
+        "type": "added",
+        "content": "# FULL PRESCRIBING INFORMATION: CONTENTS"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "unchanged",
+        "content": "1. INDICATIONS AND USAGE"
+    },
+    {
+        "type": "unchanged",
+        "content": "2. DOSAGE AND ADMINISTRATION"
+    },
+    {
+        "type": "removed",
+        "content": "3. 1. Pre-Treatment Assessment and Testing Following Acute Acetaminophen Ingestion"
+    },
+    {
+        "type": "unchanged",
+        "content": "---"
+    },
+    {
+        "type": "added",
+        "content": "1. Pre-Treatment Assessment and Testing Following Acute Acetaminophen Ingestion"
+    },
+    {
+        "type": "unchanged",
+        "content": "2. Nomogram for Estimating Potential for Hepatotoxicity from Acute Acetaminophen Ingestion and Need for ACETADOTE Treatment"
+    },
+    {
+        "type": "unchanged",
+        "content": "3. Preparation and Storage of ACETADOTE Diluted Solution Prior to Administration"
+    },
+    {
+        "type": "unchanged",
+        "content": "4. Recommended Dosage in Adults and Pediatrics for Acute Acetaminophen Ingestion"
+    },
+    {
+        "type": "unchanged",
+        "content": "5. Recommendations for Repeated Supratherapeutic Acetaminophen Ingestion"
+    },
+    {
+        "type": "removed",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "DOSAGE FORMS AND STRENGTHS"
+    },
+    {
+        "type": "added",
+        "content": "3. DOSAGE FORMS AND STRENGTHS"
+    },
+    {
+        "type": "unchanged",
+        "content": "+++"
+    },
+    {
+        "type": "unchanged",
+        "content": "4. CONTRAINDICATIONS"
+    },
+    {
+        "type": "unchanged",
+        "content": "5. WARNINGS AND PRECAUTIONS"
+    },
+    {
+        "type": "added",
+        "content": "1. Hypersensitivity Reactions"
+    },
+    {
+        "type": "added",
+        "content": "2. Fluid Overload"
+    },
+    {
+        "type": "unchanged",
+        "content": "6. ADVERSE REACTIONS"
+    },
+    {
+        "type": "added",
+        "content": "7. USE IN SPECIFIC POPULATIONS"
+    },
+    {
+        "type": "added",
+        "content": "1. Pregnancy"
+    },
+    {
+        "type": "added",
+        "content": "2. Lactation"
+    },
+    {
+        "type": "added",
+        "content": "3. Pediatric Use"
+    },
+    {
+        "type": "added",
+        "content": "8. OVERDOSAGE"
+    },
+    {
+        "type": "added",
+        "content": "9. DESCRIPTION"
+    },
+    {
+        "type": "added",
+        "content": "10. CLINICAL PHARMACOLOGY"
+    },
+    {
+        "type": "added",
+        "content": "1. Mechanism of Action"
+    },
+    {
+        "type": "added",
+        "content": "2. Pharmacokinetics"
+    },
+    {
+        "type": "added",
+        "content": "11. NONCLINICAL TOXICOLOGY"
+    },
+    {
+        "type": "added",
+        "content": "1. Carcinogenesis, Mutagenesis, Impairment of Fertility"
+    },
+    {
+        "type": "added",
+        "content": "12. CLINICAL STUDIES"
+    },
+    {
+        "type": "added",
+        "content": "13. HOW SUPPLIED/STORAGE AND HANDLING"
+    },
+    {
+        "type": "added",
+        "content": "14. PATIENT COUNSELING INFORMATION"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "*Sections or subsections omitted from the Full Prescribing Information are not listed."
+    },
+    {
+        "type": "added",
+        "content": "Revised: 10/2019"
+    },
+    {
+        "type": "unchanged",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "ACETADOTE\u00ae (acetylcysteine) Injection"
+    },
+    {
+        "type": "removed",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "Revised: 1/2017"
+    },
+    {
+        "type": "removed",
+        "content": ""
+    },
+    {
+        "type": "removed",
+        "content": "Reference ID: 4044640"
+    },
+    {
+        "type": "unchanged",
+        "content": "^^^ ^^"
+    },
+    {
+        "type": "added",
+        "content": "Reference ID: 4513653"
+    },
+    {
+        "type": "unchanged",
+        "content": "^^^ ^^"
+    }
+]

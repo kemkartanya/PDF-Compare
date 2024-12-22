@@ -34,3 +34,7 @@ compared markdown files using difflib
 
 return json as diff b/w files 
 
+
+## swagger ui
+
+Swagger UI: http://127.0.0.1:8000/docs
